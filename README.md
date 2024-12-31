@@ -119,9 +119,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Authors
-- Your Name
-- Advisor's Name
-- Institution Name
+- Pujan Shrestha
+- Manoj Shrestha
+- Coventry University
 
 ## Acknowledgments
 - Nepal Rastra Bank for providing data
