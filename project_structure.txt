@@ -1,0 +1,47 @@
+nepal_inflation_forecast/
+├── app/
+│   ├── __init__.py
+│   └── pages/
+│       ├── __init__.py
+│       ├── dashboard.py
+│       ├── data_analysis.py
+│       ├── model_training.py
+│       ├── forecasting.py
+│       └── model_performance.py
+│
+├── data/
+│   ├── raw/
+│   │   └── nepal_economic_data.csv
+│   └── processed/
+│       └── modified_dataset.csv
+│
+├── src/
+│   ├── __init__.py
+│   ├── data/
+│   │   ├── __init__.py
+│   │   ├── data_loader.py
+│   │   └── preprocessor.py
+│   ├── features/
+│   │   ├── __init__.py
+│   │   └── feature_engineering.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── base_model.py
+│   │   ├── sarima_model.py
+│   │   ├── ml_models.py
+│   │   └── hybrid_model.py
+│   └── utils/
+│       ├── __init__.py
+│       ├── config.py
+│       └── evaluation.py
+│
+├── notebooks/
+│   └── model_visualization.ipynb
+│
+├── reports/
+│   └── figures/
+│
+├── requirements.txt
+└── main.py
+├── app.py
+└── app_requirements.txt
