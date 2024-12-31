@@ -120,15 +120,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 - Pujan Shrestha
-- Manoj Shrestha
-- Coventry University
 
 ## Acknowledgments
-- Nepal Rastra Bank for providing data
-- Softwarica College for guidance and support
+- Data collected from Nepal Rastra Bank
+- Manoj Sir Softwarica College for guidance and support
 - Faculty members and advisors
 
 ## Contact
 For any queries or suggestions, please contact:
 - Email: pujanshrestha240@gmail.com
-- LinkedIn: @pujan240"# -Predictive-Modelling-of-Inflation-Dynamics-Using-Machine-Learning-and-Time-Series-Analysis" 
+- LinkedIn: pujan-shrestha-9368b22b2
