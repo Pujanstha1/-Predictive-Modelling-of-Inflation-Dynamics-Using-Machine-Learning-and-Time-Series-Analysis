@@ -123,7 +123,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 - Data collected from Nepal Rastra Bank
-- Manoj Sir Softwarica College for guidance and support
+- Manoj Shrestha Sir and Softwarica College for guidance and support
 - Faculty members and advisors
 
 ## Contact
